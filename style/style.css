@@ -34,3 +34,24 @@
 .hover-finger:hover {
   cursor: pointer;
 }
+
+.word-substitution-form {
+  border: 1px solid rgba(30, 30, 200, 0.9);
+  border-radius: 6px;
+  padding: 20px;
+
+  width: 250px;
+
+}
+
+.word-substitution-form li {
+  width: 100px;
+}
+
+.word-substitution-form li:last-child {
+  margin-bottom: 10px;
+}
+
+.word-substitution-form .btn:last-child {
+  margin-left: 20px;
+}
